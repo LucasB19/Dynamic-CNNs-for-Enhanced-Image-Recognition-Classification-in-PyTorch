@@ -42,7 +42,7 @@ pip install -r requirements.txt
 To run the project, execute the following command:
 
 ```bash
-python cifar10_classification.py
+python cifar10_classification.ipynb
 ```
 
 Ensure you have PyTorch and other required libraries installed. Modify the script according to your computational resources and preferences.
