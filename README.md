@@ -22,8 +22,9 @@ Analyze the impact of various hyperparameters on the model's accuracy.
 Achieve a testing accuracy of 88.48% through meticulous adjustments and optimizations.
 Installation
 
-bash
+bash'''
 Copy code
+'''
 # Clone this repository
 git clone <repository-url>
 
