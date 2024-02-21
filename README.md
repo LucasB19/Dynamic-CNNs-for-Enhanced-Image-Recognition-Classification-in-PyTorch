@@ -13,7 +13,7 @@ Design a neural network with a custom backbone and classifier.
 Implement a series of convolutional layers, adaptive pooling, and linear layers for effective feature extraction and classification.
 Part 3: Training Mechanics
 Employ cross-entropy loss and the Adam optimizer.
-Use ReduceLROnPlateau scheduler for optimizing the learning rate.
+Use the ReduceLROnPlateau scheduler for optimizing the learning rate.
 Part 4: Evaluation Strategy
 Integrate early stopping to prevent overfitting.
 Conduct hyperparameter tuning to find the optimal model configuration.
